@@ -31,7 +31,7 @@ int main() {
 - Programming Languages
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,python,mysql" />
   </a>
 </p>
 
